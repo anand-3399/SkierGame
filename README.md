@@ -8,6 +8,4 @@ In this, I have created a interactive game using Python and its most famous modu
 * pip install pygame
   * Just type the above command in your Command Promt.
 
-![1660676178028](image/README/1660676178028.png)
-
-![1660676143803](image/README/1660676143803.png)
+![1660763227222](image/README/1660763227222.png)![1660763275015](image/README/1660763275015.png)![1660763423304](image/README/1660763423304.png)
